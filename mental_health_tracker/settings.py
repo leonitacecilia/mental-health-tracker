@@ -14,7 +14,7 @@ from pathlib import Path
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "http://pbp.cs.ui.ac.id/leonita.cecilia/mentalhealthtracker"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "leonita-cecilia-mentalhealthtracker.pbp.cs.ui.ac.id"]
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
