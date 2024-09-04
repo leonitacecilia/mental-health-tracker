@@ -12,7 +12,6 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 from pathlib import Path
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "leonita-cecilia-mentalhealthtracker.pbp.cs.ui.ac.id"]
 
